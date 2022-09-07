@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-07T21:57:09 IST" name="Suite" finished-at="2022-09-07T21:57:38 IST" duration-ms="28664">
+    <groups>
+    </groups>
+    <test started-at="2022-09-07T21:57:09 IST" name="ChromeValidLoginTC001" finished-at="2022-09-07T21:57:38 IST" duration-ms="28664">
+      <class name="TestNG_Output.testClass_TC001">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:TestNG_Output.testClass_TC001@e350b40]" started-at="2022-09-07T21:57:09 IST" name="beforeTest" finished-at="2022-09-07T21:57:37 IST" duration-ms="27459" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="validateLogin()[pri:0, instance:TestNG_Output.testClass_TC001@e350b40]" started-at="2022-09-07T21:57:37 IST" name="validateLogin" finished-at="2022-09-07T21:57:38 IST" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestNG_Output.testClass_TC001@e350b40]" started-at="2022-09-07T21:57:38 IST" name="afterTest" finished-at="2022-09-07T21:57:38 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestNG_Output.testClass_TC001 -->
+    </test> <!-- ChromeValidLoginTC001 -->
+  </suite> <!-- Suite -->
+</testng-results>
